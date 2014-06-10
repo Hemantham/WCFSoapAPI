@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\publishedService</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/soapService.dll">
+      <publishTime>06/08/2014 13:45:00</publishTime>
+    </File>
+    <File Include="ContactsService.asmx">
+      <publishTime>06/07/2014 13:58:44</publishTime>
+    </File>
+    <File Include="ProxyService.svc">
+      <publishTime>06/07/2014 15:13:02</publishTime>
+    </File>
+    <File Include="RedPill.svc">
+      <publishTime>06/07/2014 15:30:10</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/configuration.svcinfo">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/configuration91.svcinfo">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/RedPill.disco">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/RedPill.wsdl">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/RedPill1.wsdl">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/Reference.svcmap">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/soapService.ActualRedPill.ContactDetails.datasource">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/ActualRedPill/soapService.ActualRedPill.TriangleType.datasource">
+      <publishTime>06/08/2014 10:40:23</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/configuration.svcinfo">
+      <publishTime>06/07/2014 14:04:45</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/configuration91.svcinfo">
+      <publishTime>06/07/2014 14:04:45</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/RedPill.wsdl">
+      <publishTime>06/07/2014 14:04:45</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/Reference.svcmap">
+      <publishTime>06/07/2014 14:04:45</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/soapService.RedPillReference.ContactDetails.datasource">
+      <publishTime>06/07/2014 14:04:47</publishTime>
+    </File>
+    <File Include="Service References/RedPillReference/soapService.RedPillReference.TriangleType.datasource">
+      <publishTime>06/07/2014 14:04:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/08/2014 11:05:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

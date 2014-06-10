@@ -1,0 +1,5 @@
+D:\soapService\soapService\bin\soapService.dll
+D:\soapService\soapService\bin\soapService.pdb
+D:\soapService\soapService\obj\Release\soapService.dll
+D:\soapService\soapService\obj\Release\soapService.pdb
+D:\soapService\soapService\obj\Release\soapService.csprojResolveAssemblyReference.cache

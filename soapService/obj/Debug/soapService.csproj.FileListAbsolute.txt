@@ -1,0 +1,4 @@
+D:\soapService\soapService\bin\soapService.dll
+D:\soapService\soapService\bin\soapService.pdb
+D:\soapService\soapService\obj\Debug\soapService.dll
+D:\soapService\soapService\obj\Debug\soapService.pdb
